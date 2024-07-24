@@ -7,7 +7,9 @@ AtliQ Hardware is a rapidly growing company in recent years, and they have decid
 
 
 ●	Developed a dashboard in Power BI, for analyzing the AtliQ Hardware to make data-driven decisions and surpass competitors.
+
 ●	Showcased insights into 4 major aspects of business KPIs Finance, Sales, marketing, and Supply Chain.
+
 ●	Key Insights:
 1. The company shows an increase in GM% in 2022 Compared to GM% in 2021.
 2. AtliQ’s Net sales have Increased YoY and Amazon is the Top Contributor of NS $.
